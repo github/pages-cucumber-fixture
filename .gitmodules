@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = http://github.com/github/pages-gem
