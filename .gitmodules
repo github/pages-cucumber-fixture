@@ -1,0 +1,6 @@
+[submodule "submodule"]
+	path = submodule
+	url = git@github.com:github/pages-gem.git
+[submodule "docs/submodule"]
+	path = docs/submodule
+	url = https://github.com/github/pages-gem.git
